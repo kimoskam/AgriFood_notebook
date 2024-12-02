@@ -34,6 +34,6 @@ The following libraries and frameworks were used for implementing machine learni
 
 ## Dataset
 The original dataset used in this thesis is publicly available on Kaggle:  
-[Agri-food CO2 Emission Dataset - Forecasting ML]([https://www.kaggle.com/alessandrolobello/agri-food-co2-emission-dataset](https://www.kaggle.com/datasets/alessandrolobello/agri-food-co2-emission-dataset-forecasting-ml/data).
+**[Agri-food CO2 Emission Dataset - Forecasting ML](https://www.kaggle.com/datasets/alessandrolobello/agri-food-co2-emission-dataset-forecasting-ml/data)**
 
 
